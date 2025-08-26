@@ -1,0 +1,6 @@
+.AppHeader{
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  padding: 8px 12px;
+}
