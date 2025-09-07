@@ -1,0 +1,64 @@
+.A {
+  text-align: center;
+  margin-top: 50px;
+  padding: 100px;
+  transition: background-color 0.3s ease;
+}
+
+/* Цвет фона при появлении кнопки "Жми" */
+.bg-change {
+  background-color: #ffeb3b; /* ярко-жёлтый */
+}
+
+button {
+  padding: 40px 80px;
+  font-size: 40px;
+}
+
+.gameStartButton {
+    padding: 40px 80px;
+    font-size: 40px;
+}
+
+.click {
+    font-size: 80px
+}
+
+.best-result {
+  font-size: 20px;
+  font-weight: bold;
+  color: green;
+  margin-bottom: 15px;
+}
+
+.reaction-text {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+  font-weight: bold;
+}
+
+.history {
+  margin-top: 20px;
+  text-align: left;
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.history h3 {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.history ul {
+  list-style: none;
+  padding: 0;
+}
+
+.history li {
+  font-size: 14px;
+  padding: 4px 0;
+  border-bottom: 1px solid #ccc;
+}
+
